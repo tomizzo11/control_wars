@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1447714613 source:c:\program files (x86)\codeblocks\projects\physics box\src\simulator.cpp
+	"Simulator.h"
+	<SFML/Graphics.hpp>
+	"RigidBody.h"
+	"Force2Motion.h"
+	<array>
+	<iostream>
+
+1447561726 c:\program files (x86)\codeblocks\projects\physics box\include\simulator.h
+	<SFML/Graphics.hpp>
+	"RigidBody.h"
+	"Force2Motion.h"
+
+1446426814 source:c:\program files (x86)\codeblocks\projects\physics box\src\main.cpp
+	"Simulator.h"
+
+1447564033 source:c:\program files (x86)\codeblocks\projects\physics box\src\rigidbody.cpp
+	"RigidBody.h"
+
+1447477420 c:\program files (x86)\codeblocks\projects\physics box\include\rigidbody.h
+
+1447565424 source:c:\program files (x86)\codeblocks\projects\physics box\src\force2motion.cpp
+	"Force2Motion.h"
+	"RigidBody.h"
+	<cmath>
+	<iostream>
+
+1447564647 c:\program files (x86)\codeblocks\projects\physics box\include\force2motion.h
+	"RigidBody.h"
+	<vector>
+	<array>
+
